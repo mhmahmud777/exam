@@ -1,0 +1,128 @@
+
+section {
+	padding: 0;
+}
+h1 {
+	color: #fff;
+    font-size: 50px;
+}
+h2 {
+	color: #fff;
+	font-size: 20px;
+}
+h3 {
+
+}
+h4 {
+
+}
+p {
+	font-size: 11px;
+    line-height: 20px;
+    font-family: arial;
+}
+
+.no-pad {
+	padding: 0;
+}
+.t-center {
+	text-align: center;
+}
+.new-font {
+	font-family: 'Bree Serif', serif;
+}
+.arial-font {
+	font-family: arial;
+}
+.color-black {
+	color:#31353e!important;
+}
+
+/* All Button CSS */
+
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+/*========================= Navigation ==================================*/
+
+
+.navbar{
+	background-color: #fff;
+	padding: 10px 0;
+}
+.nav-link {
+	color: #31353e!important;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 5px 15px!important;
+    font-size: 14px;
+}
+.nav-link:hover {
+	color: #dd4b2b!important;
+}
+/* Nav Active Css */
+.nav-link.js-scroll-trigger.active {
+    background-color: #dd4b2b;
+    color: #fff!important;
+}
+
+/*========================= Hero Section ========================= */
+
+.hero {
+	background: url(../img/hero-banner.png)no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0 80px 0;
+	background-attachment: fixed;
+}
+.hero-text {
+
+}
+.hero-text h1{
+	margin-top: 170px;
+}
+.hero-text h2 {
+	margin-bottom: 80px;
+}
+
+/*---------Hero Section Circle Image-----------*/
+
+.hero-circle h2 {
+	margin-top: 10px;
+}
+.hero-circle p {
+	color: #fff;
+	padding: 0 56px;
+}
+
+/*----------Hero Section Button-------------*/
+
+.hero-btn button{
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+.btn {
+    background-color: #7aff00;
+    padding: 16px 32px;
+}
+
+/*==================== News Section ==================== */
+
+
+
+.news h2 {
+	margin-top: 15px;
+}
+.news p {
+	padding: 15px 175px;
+}
+
+
+.worklogo{
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
